@@ -4,4 +4,4 @@ Chapterwise solution of the Book "Scientific Computing in Python 2nd Edition" Ab
 
 please write to me if you find any error ...
 
-$$ Solution is done by debmanna $$
+$$ Solution_is_done_by_debmanna $$
