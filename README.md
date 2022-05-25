@@ -6,5 +6,6 @@ please write to me if you find any error ...
 
 Solution is done by debmanna
 
-Chapter 1 -- Basic Concepts in Python \n
+Chapter 1 -- Basic Concepts in Python
+
 Chapter 2 -- Loops, Conditions, Functions
