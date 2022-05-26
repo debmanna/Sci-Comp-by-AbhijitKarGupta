@@ -4,7 +4,7 @@ Chapterwise solution of the Book "Scientific Computing in Python 2nd Edition" Ab
 
 please write to me if you find any error ...
 
-Solution is done by debmanna
+_ Solution is done by debmanna _
 
 Chapter 1 -- Basic Concepts in Python
 
