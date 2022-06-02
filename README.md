@@ -9,3 +9,5 @@ _Solution is done by debmanna_
 Chapter 1 -- Basic Concepts in Python  
 Chapter 2 -- Loops, Conditions, Functions  
 Chapter 3 -- Python Data Structures
+
+Chapter 7 -- NumPy: Numerical Python
