@@ -11,9 +11,9 @@ Chapter 2 -- Loops, Conditions, Functions
 Chapter 3 -- Python Data Structures
 
 Chapter 7 -- NumPy: Numerical Python  
-Chapter 8 -- SciPy: Scientific Python
-Chapter 9 -- 
-Chapter 10 --  
+Chapter 8 -- SciPy: Scientific Python  
+Chapter 9 --   
+Chapter 10 --    
 Chapter 11 -- Pandas  _This Chapter has No excercise overHere_
 
 Chapter 12 -- Numerical Methods with Python  
